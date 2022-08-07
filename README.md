@@ -73,3 +73,5 @@ Download video by videoId if you can(private video). Swagger example:
 After click _Download file_
 
 ![downloaded file](https://sun9-25.userapi.com/impg/0ALkOhbFEuL-TvkozNf5D0ZL9aY0DSJbD-LYPw/DXBzEGfWYf8.jpg?size=1921x57&quality=96&sign=51ea1640f426fc04800a0caf8e663e4f&type=album)
+
+**Add in dev branch**

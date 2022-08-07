@@ -1,0 +1,24 @@
+Date: 2022-08-04
+Error: Video with same title already exists
+
+Date: 2022-08-04
+Error: Video with same title already exists
+
+Date: 2022-08-04
+Error: Invalid data input
+
+Date: 2022-08-04
+Error: Invalid data input
+
+Date: 2022-08-04
+Error: Cannot read properties of undefined (reading 'name')
+
+Date: 2022-08-04
+Error: Cannot read properties of undefined (reading 'name')
+
+Date: 2022-08-04
+Error: Video with same title already exists
+
+Date: 2022-08-04
+Error: Video with same title already exists
+
